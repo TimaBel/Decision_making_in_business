@@ -1,3 +1,6 @@
+`Статус проекта: завершен`   
+`Project status: completed`
+
 # Decision_making_in_business
 
 ## Проект: Принятие решений в бизнесе
